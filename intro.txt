@@ -1,0 +1,15 @@
+Xin chào, tôi là Thái Lâm Hồng Phúc.
+Tôi đang học tại trường ĐH Nam Cần Thơ. 
+Tôi quan tâm đến công nghệ phần mềm.
+Tôi yêu thích việc học hỏi những kỹ năng mới.
+Tôi mong muốn trở thành lập trình viên giỏi.
+
+Sở thích:
+1. Chơi Game 
+2. Nghe nhạc
+3. Lập trình
+
+Kỹ năng:
+1. C++ cơ bản
+2. Git & GitHub
+3. Làm việc nhóm
