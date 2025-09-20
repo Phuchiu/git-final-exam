@@ -15,3 +15,7 @@
 8. Dành thời gian xem lại video/slide bài giảng để củng cố kiến thức.  
 9. Tự làm thêm 1 mini project để áp dụng Git vào thực tế.  
 10. Tổng kết lại kiến thức đã học trong tuần và chuẩn bị cho tuần sau.
+# Weekly Study Plan
+- Monday: Git practice
+- Tuesday: Database review
+- Wednesday: Web project
