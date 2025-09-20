@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản dễ dàng.
 - Học Git giúp làm việc nhóm hiệu quả hơn.
 - GitHub là nơi lưu trữ và chia sẻ code tiện lợi.
-- Git hỗ trợ làm việc trên nhiều branch.
-- Git giúp theo dõi lịch sử thay đổi dễ dàng.
