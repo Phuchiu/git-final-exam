@@ -1,0 +1,7 @@
+# New Feature: User Authentication
+
+1. Cho phép người dùng đăng ký tài khoản.  
+2. Đăng nhập bằng tên đăng nhập và mật khẩu.  
+3. Hỗ trợ chức năng đăng xuất.  
+4. Lưu thông tin tài khoản trong cơ sở dữ liệu.  
+5. Bảo mật mật khẩu bằng mã hóa.
